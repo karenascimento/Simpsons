@@ -1,0 +1,35 @@
+REGRAS DO JOGO
+ 
+OBJETIVO - CRIAR UM SITE "DOS SIMPSONS";
+ 
+REGRAS GERAIS:
+                - SEGUIR O LAYOUT DO APRESENTADO
+                - COLOCAR UM FUNDO DE TELA; OK
+                - CRIAR UMA DIV TRANSPARENTE (900px) ONDE FICAR� TODO O CONTE�DO DO SITE E DEIXAR CENTRALIZADO; OK
+                - A DIV TER� QUE SER TRANSPARENTE; OK
+               
+ 
+FONTES:
+Texto padr�o
+                ARIAL - 18px - #003399 OK
+ 
+T�TULO (H1)
+                ARIAL - 30PX - #F44C2D OK
+               
+ 
+Imagens Personagens:
+                As imagens devem estar arredondadas; OK
+                Borda 4px; OK
+                Cor da borda - #000066 OK
+               
+                NOME PERSONAGNES (H2):
+                               TAHOMA - 24PX - #003399 OK
+ 
+ 
+�rvore geneal�gica:
+                Colocar imagem no centro da tela; OK
+ 
+ 
+Toda as Temporadas:
+                Criar uma lista N�o Ordendadas OK
+                Inserir Links, com efeito HOVER OK
